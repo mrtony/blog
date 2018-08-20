@@ -3,9 +3,9 @@ module.exports = {
     title: 'React Tech Blog',
     author: 'Tony Chen',
     description: 'A starter blog demonstrating what Gatsby can do.',
-    siteUrl: 'https://mrtony.github.io/mrtony.github.com/',
+    siteUrl: 'https://mrtony.github.io/blog/',
   },
-  pathPrefix: '/mrtony.github.com',
+  pathPrefix: '/blog',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
